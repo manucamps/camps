@@ -21,4 +21,5 @@ ul {
 .nav-item:hover{
     cursor: pointer;
     background-color: white;
+    color: #001ca4;
 }
