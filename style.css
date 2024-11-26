@@ -9,7 +9,7 @@ header {
     justify-content: center;
 }
 
-ul {
+.nav_lista {
     display: flex;
     list-style: none;
     font-size: 60px;
