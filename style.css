@@ -18,22 +18,3 @@ header {
 
 }
 
-.nav-item:hover{
-    cursor: pointer;
-    background-color:#001ca4;
-    color:whitesmoke ;
-}
-
-section {
-    width: 100%;
-    padding-left: 8%;
-    padding-right: 8%;
-    padding-top: 2%;
-}
-
-.moldura_videos {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: space-around
-    ;
-}
